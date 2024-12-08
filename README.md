@@ -17,3 +17,6 @@ The data visualization notebook focuses on illustrating the dataset's unique cha
 
 ## Data Preprocessing
 The main notebook includes data preprocessing steps, which involve splitting the dataset into training, validation, and test subsets.
+
+##Models
+Our best model for the problem is contained in the main_transfer_3.ipynb notebook.

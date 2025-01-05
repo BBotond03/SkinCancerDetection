@@ -4,7 +4,7 @@
 This repository contains code for a project focused on differentiating between benign and malignant cases of melanoma based on phone camera pictures. It is based on the [ISIC 2024 - Skin Cancer Detection with 3D-TBP challenge](https://www.kaggle.com/competitions/isic-2024-challenge/).
 
 ## Team
-**DLBoyz**  
+**DLBoyz** (Megajánlott jegyért) 
 - Biebel Botond (OZQ5S0)  
 - Székely Zalán (LHCV81)  
 - Farkas Bence (Y9Y6BS)  
